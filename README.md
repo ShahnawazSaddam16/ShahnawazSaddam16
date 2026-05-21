@@ -1,121 +1,105 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Python;SSR+%7C+SSG+%7C+Performance+Focused;%F0%9F%8F%86+3rd+%E2%80%94+Hack+for+Humanity+2026+(775+participants);Building+Fast%2C+Production-Ready+Web+Apps" alt="Typing SVG" />
-  </a>
-</p>
+# 🚀 Shahnawaz Saddam Butt — Full Stack Developer Portfolio
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahb-amir&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+Welcome to my official developer portfolio and project showcase.
 
-  <img src="https://img.shields.io/badge/Age-16-0e75b6?style=flat" alt="Age" />
+I am **Shahnawaz Saddam Butt**, a Full Stack Web Developer from Pakistan, building modern, scalable, and high-performance web applications using **Next.js, React, Node.js, Express, MongoDB, and Tailwind CSS**.
 
-  <img src="https://img.shields.io/badge/Experience-Self--taught-0e75b6?style=flat" alt="Experience" />
-
-  <a href="https://rankistan.dev">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fwahb-amir&style=flat" alt="Rankistan rank badge" />
-  </a>
-</p>
+> 💡 “I build fast, reliable, and production-ready web applications with modern technologies.”
 
 ---
 
-## 🏆 Hackathons
-
-| Place | Event | Project | Participants | Stack |
-|-------|-------|---------|-------------|-------|
-| 🥉 3rd | Hack for Humanity 2026 | [EcoLens](https://devpost.com/software/eco-lens-0golu8) — AI waste classifier | 775 (int'l, solo) | Next.js · HuggingFace · MongoDB |
-| 🏆 Technical Award 🛠️ | Hackonomics 2026 | [EconoQuest](https://devpost.com/software/econoquest-y205ab) — economics simulation game | Solo build | Next.js · Fastify · Supabase · Groq |
+## 🌐 Live Portfolio
+👉 https://shahnawaz.buttnetworks.com/
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔭 Self-taught full-stack developer — coding seriously for **~1 year**, shipping production-grade apps
-- 🧠 Building **[EconoQuest](https://devpost.com/software/econoquest-y205ab)** — distributed microservices econ sim with Supabase pgvector RAG, WebSocket streaming, and Groq Llama 3.3 70B
-- ⚡ Obsessed with **performance, clean architecture, and shipping real things**
-- 🐧 Manage my own **Linux VPS** — full infra ownership from code to deployment
-- 🌐 Portfolio: **[wahb.space](https://wahb.space)**
-- 💬 Ask me about: **Next.js · TypeScript · Fastify · Supabase · ML integration**
-- ⚡ Motto: *"Performance and clarity over complexity."*
+- 💻 Full Stack Developer (MERN / Next.js)
+- ⚡ Passionate about scalable web apps & UI/UX design
+- 🔐 Experienced in authentication systems, APIs & backend architecture
+- 🚀 Focused on performance, clean code, and modern UI design
+- 🇵🇰 Based in Pakistan
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Frontend
+- HTML, CSS, JavaScript
+- React.js
+- Next.js
+- Tailwind CSS
+- TypeScript
 
-#### Backend & AI/ML
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
-#### Databases & Infra
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+### Database
+- MongoDB
+- MySQL
 
----
-
-## 🚀 Featured Projects
-
-### 🏆 [EcoLens — AI Waste Classifier](https://eco.wahb.space) &nbsp;·&nbsp; *3rd Place, Hack for Humanity 2026 (775 participants)*
-> Point your camera at any waste item → AI classification → CO₂/water/energy impact → gamified global leaderboard.  
-> Full ML pipeline: Next.js serverless → HuggingFace proxy → label normalisation → MongoDB. OTP + JWT auth with token rotation. Built solo in one month, zero paid API budget.  
-> **Stack:** Next.js · TypeScript · HuggingFace · MongoDB · Framer Motion · JWT · Tailwind  
-> [Live](https://eco.wahb.space) · [Code](https://github.com/wahb-amir/ecolens)
+### Tools & DevOps
+- Git & GitHub
+- Nginx
+- Docker (basic)
+- Vercel / Netlify
 
 ---
 
-### 🛠️  [EconoQuest — Economics Simulation Game](https://devpost.com/wahbamir2010) &nbsp;·&nbsp; *Hackonomics 2026*
-> Multi-player economics simulation with AI-powered decision feedback. Distributed microservices architecture with load-balanced HuggingFace Spaces, Supabase pgvector RAG, real-time WebSocket streaming, and SHA256-keyed LRU caching. 37-test suite. Hall of Fame leaderboard.  
-> **Stack:** Next.js · Fastify · Supabase · pgvector · Groq (Llama 3.3 70B) · WebSocket · Python  
-> [Live](https://econoquest.wahb.space) · [Frontend-code](https://github.com/wahb-amir/EconoQuest) [Backend-code](https://github.com/wahb-amir/EconoQuestbackend)
+## 📂 Featured Projects
+
+### 🔗 1. URL Shortener App
+👉 https://url-shortener.buttnetworks.com/
+
+A powerful and modern URL shortener system with:
+- 🔐 Secure authentication
+- 📊 Analytics tracking
+- ⚡ Fast redirection system
+- 🧠 Built with MERN stack
 
 ---
 
-### 🛠 [Client & Developer Collaboration Platform](https://dashboard.wahb.space)
-> Replaces email/spreadsheet chaos with GitHub-synced progress, role-based access, real-time messaging, and automated notifications.  
-> **Stack:** Next.js · Node.js · MongoDB · GitHub Webhooks · Tailwind  
-> [Live](https://dashboard.wahb.space) · [Code](https://github.com/wahb-amir/dashboard)
+### 💼 2. Developer Portfolio
+👉 https://shahnawaz.buttnetworks.com/
+
+A fully responsive personal portfolio featuring:
+- 🎨 Modern UI/UX design
+- 🌙 Dark mode support
+- 📱 Mobile-first responsive layout
+- ⚡ Smooth animations and optimized performance
+- 📬 Contact form integration
 
 ---
 
-### 🛒 [Modern Online Store — BoltForm](https://boltform.wahb.space)
-> Performant e-commerce MVP — Stripe checkout, mobile-first UX, admin dashboard.  
-> **Stack:** Next.js · Stripe · MongoDB · Tailwind  
-> [Live](https://boltform.wahb.space) · [Code](https://github.com/wahb-amir/Boltform)
+## 📊 Highlights
+
+- 🚀 10+ Completed Projects
+- 🧠 Full Stack Development Experience
+- ⚡ Performance-focused architecture
+- 🎯 UI/UX optimized interfaces
+- 🔐 Secure authentication systems
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
-</p>
+- 📧 Email: shahnawazsaddamb@gmail.com  
+- 🌐 Portfolio: https://shahnawaz.buttnetworks.com  
+- 🔗 URL Shortener: https://url-shortener.buttnetworks.com  
 
 ---
 
-## 🌐 Connect
+## 🏁 Goals
 
-<p align="left">
-  <a href="https://wahb.space"><img src="https://img.shields.io/badge/Portfolio-wahb.space-00E7FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/wahb-amir"><img src="https://img.shields.io/badge/GitHub-wahb--amir-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:wahbamir2010@gmail.com"><img src="https://img.shields.io/badge/Email-wahbamir2010@gmail.com-0078D4?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/wahb-amir"><img src="https://img.shields.io/badge/LinkedIn-wahb--amir-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
+- Build scalable SaaS platforms
+- Work on AI + Web integration
+- Contribute to open-source projects
+- Create world-class production apps
 
-⭐ *If you like fast, production-grade web apps with real AI integration — you'll like my work.*
+---
+
+⭐ If you like my work, feel free to connect or collaborate!
