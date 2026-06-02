@@ -58,26 +58,27 @@ I specialize in creating high-performance web applications using modern technolo
 
 # 🌟 Featured Projects
 
-## ⏰ HKChronSync
+## 🗳️ Opinion Nest
 
-### Modern Time Synchronization Platform
+### Live:
+https://opinion-nest.buttnetworks.com/
 
-A highly optimized synchronization and scheduling platform built with modern technologies.
+A modern opinion-sharing and discussion platform where users can express ideas, engage in meaningful conversations, and interact with community-driven content.
 
 ### Features
 
-* ⚡ Real-time synchronization
-* 🔄 Accurate time management
-* 📊 Advanced dashboard
-* 🔐 Secure architecture
-* 🌍 Multi-device compatibility
-* 📱 Fully responsive design
+- 📝 Create & Share Opinions
+- 💬 Interactive Discussions
+- 👍 Like & Engagement System
+- 🔐 Secure Authentication
+- 📱 Fully Responsive Design
+- ⚡ Fast & Optimized Performance
+- 🎨 Modern Blue-Themed UI
+- 🌙 Dark Mode Support
 
 ### Tech Stack
 
-Next.js • React • Node.js • MongoDB • Tailwind CSS
-
----
+Next.js • React • Node.js • Express.js • MongoDB • Tailwind CSS
 
 ## 🔗 URL Shortener
 
