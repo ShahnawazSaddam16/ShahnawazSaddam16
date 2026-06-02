@@ -1,105 +1,227 @@
-# 🚀 Shahnawaz Saddam Butt — Full Stack Developer Portfolio
+# 🚀 Shahnawaz Saddam Butt | Full Stack Developer
 
-Welcome to my official developer portfolio and project showcase.
+<div align="center">
 
-I am **Shahnawaz Saddam Butt**, a Full Stack Web Developer from Pakistan, building modern, scalable, and high-performance web applications using **Next.js, React, Node.js, Express, MongoDB, and Tailwind CSS**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Fast+%26+Scalable+Web+Applications;UI%2FUX+Focused+Developer;Open+For+Collaboration" />
 
-> 💡 “I build fast, reliable, and production-ready web applications with modern technologies.”
-
----
-
-## 🌐 Live Portfolio
-👉 https://shahnawaz.buttnetworks.com/
+</div>
 
 ---
 
-## 🧠 About Me
+## 💙 About Me
 
-- 💻 Full Stack Developer (MERN / Next.js)
-- ⚡ Passionate about scalable web apps & UI/UX design
-- 🔐 Experienced in authentication systems, APIs & backend architecture
-- 🚀 Focused on performance, clean code, and modern UI design
-- 🇵🇰 Based in Pakistan
+Hi, I'm **Shahnawaz Saddam Butt**, a Full Stack Developer from Pakistan 🇵🇰 passionate about building modern, scalable, and production-ready applications.
+
+I specialize in creating high-performance web applications using modern technologies while focusing on user experience, clean architecture, and security.
+
+### ⚡ What I Do
+
+* 🚀 Build Full Stack Applications
+* 🔐 Authentication & Security Systems
+* 🎨 Modern UI/UX Design
+* ⚡ Performance Optimization
+* 🌐 REST API Development
+* 📱 Responsive Web Experiences
+* 🤖 AI + Web Integrations
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
-- HTML, CSS, JavaScript
-- React.js
-- Next.js
-- Tailwind CSS
-- TypeScript
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
 ### Database
-- MongoDB
-- MySQL
 
-### Tools & DevOps
-- Git & GitHub
-- Nginx
-- Docker (basic)
-- Vercel / Netlify
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 
----
+### DevOps & Tools
 
-## 📂 Featured Projects
-
-### 🔗 1. URL Shortener App
-👉 https://url-shortener.buttnetworks.com/
-
-A powerful and modern URL shortener system with:
-- 🔐 Secure authentication
-- 📊 Analytics tracking
-- ⚡ Fast redirection system
-- 🧠 Built with MERN stack
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge)
 
 ---
 
-### 💼 2. Developer Portfolio
-👉 https://shahnawaz.buttnetworks.com/
+# 🌟 Featured Projects
 
-A fully responsive personal portfolio featuring:
-- 🎨 Modern UI/UX design
-- 🌙 Dark mode support
-- 📱 Mobile-first responsive layout
-- ⚡ Smooth animations and optimized performance
-- 📬 Contact form integration
+## ⏰ HKChronSync
 
----
+### Modern Time Synchronization Platform
 
-## 📊 Highlights
+A highly optimized synchronization and scheduling platform built with modern technologies.
 
-- 🚀 10+ Completed Projects
-- 🧠 Full Stack Development Experience
-- ⚡ Performance-focused architecture
-- 🎯 UI/UX optimized interfaces
-- 🔐 Secure authentication systems
+### Features
 
----
+* ⚡ Real-time synchronization
+* 🔄 Accurate time management
+* 📊 Advanced dashboard
+* 🔐 Secure architecture
+* 🌍 Multi-device compatibility
+* 📱 Fully responsive design
 
-## 📫 Contact
+### Tech Stack
 
-- 📧 Email: shahnawazsaddamb@gmail.com  
-- 🌐 Portfolio: https://shahnawaz.buttnetworks.com  
-- 🔗 URL Shortener: https://url-shortener.buttnetworks.com  
+Next.js • React • Node.js • MongoDB • Tailwind CSS
 
 ---
 
-## 🏁 Goals
+## 🔗 URL Shortener
 
-- Build scalable SaaS platforms
-- Work on AI + Web integration
-- Contribute to open-source projects
-- Create world-class production apps
+### Live:
+
+https://url-shortener.buttnetworks.com/
+
+### Features
+
+* 🔐 Secure Authentication
+* 📊 Link Analytics
+* ⚡ Ultra-fast Redirects
+* 📈 Click Tracking
+* 🎯 Dashboard Management
+
+### Tech Stack
+
+Next.js • Node.js • Express • MongoDB
 
 ---
 
-⭐ If you like my work, feel free to connect or collaborate!
+## 🛒 Key&Chains E-Commerce
+
+A complete e-commerce platform with modern shopping experience.
+
+### Features
+
+* 🛍 Product Catalog
+* 🔐 User Authentication
+* 🛒 Shopping Cart
+* 💳 Checkout Flow
+* 📱 Mobile Responsive
+
+### Tech Stack
+
+Next.js • Express.js • MongoDB
+
+---
+
+## 📊 Admin Dashboard
+
+A powerful management system for handling users, content, analytics, and platform settings.
+
+### Features
+
+* 📈 Analytics Dashboard
+* 👥 User Management
+* 🔒 Role-Based Access
+* ⚡ Fast Performance
+* 📱 Responsive UI
+
+### Tech Stack
+
+Next.js • Node.js • MongoDB
+
+---
+
+## 🌐 Business Website
+
+Professional full-stack business website featuring modern UI and backend integration.
+
+### Features
+
+* 🌙 Dark Mode
+* 📬 Contact Forms
+* ⚡ Fast Loading
+* 📱 Mobile First
+* 🎨 Modern Design
+
+---
+
+## 🎨 Digital Website
+
+SEO-focused digital platform built for maximum performance and modern user experience.
+
+### Features
+
+* 🚀 SEO Optimized
+* ⚡ High Performance
+* 🎯 Clean UI
+* 📱 Responsive Design
+
+---
+
+## 💼 Zeeshan Haider Portfolio
+
+### Live:
+
+https://www.zeeshanhaider.xyz/
+
+A modern portfolio website developed with clean UI, animations, responsiveness, and optimized performance.
+
+### Features
+
+* 🎨 Professional Design
+* ⚡ Smooth Animations
+* 🌙 Dark Mode
+* 📱 Fully Responsive
+* 🚀 Optimized Performance
+
+---
+
+# 📈 Developer Statistics
+
+```txt
+🚀 Projects Completed      : 20+
+⚡ Technologies Used       : 10+
+💻 Full Stack Projects     : 15+
+📱 Responsive Designs      : 100%
+🔐 Secure Authentication   : Expert
+🎯 User Experience Focus   : High
+```
+
+---
+
+## 🎯 Future Goals
+
+* 🚀 Build Large Scale SaaS Products
+* 🤖 AI + Web Integration
+* 🌍 Open Source Contributions
+* 📱 Cross Platform Applications
+* ☁️ Cloud Native Development
+
+---
+
+## 📬 Contact Me
+
+📧 Email: [shahnawazsaddamb@gmail.com](mailto:shahnawazsaddamb@gmail.com)
+
+🌐 Portfolio:
+https://shahnawaz.buttnetworks.com/
+
+🔗 URL Shortener:
+https://url-shortener.buttnetworks.com/
+
+🏢 Butt Networks:
+https://buttnetworks.com/
+
+---
+
+<div align="center">
+
+### 💙 Building Fast. Secure. Scalable.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile!;Let's+Build+Something+Amazing+Together!;Open+For+Projects+%26+Collaboration" />
+
+</div>
