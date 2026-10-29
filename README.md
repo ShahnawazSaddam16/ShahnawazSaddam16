@@ -58,27 +58,40 @@ I specialize in creating high-performance web applications using modern technolo
 
 # 🌟 Featured Projects
 
-## 🗳️ Opinion Nest
+## 🛒 ValueMax Cash & Carry
 
 ### Live:
-https://opinion-nest.buttnetworks.com/
+https://valuemax.com.pk/
 
-A modern opinion-sharing and discussion platform where users can express ideas, engage in meaningful conversations, and interact with community-driven content.
+A full-stack website for a physical cash & carry store in Rawalpindi, offering wholesale pricing, product browsing, loyalty rewards, and bulk order handling.
 
 ### Features
 
-- 📝 Create & Share Opinions
-- 💬 Interactive Discussions
-- 👍 Like & Engagement System
-- 🔐 Secure Authentication
+- 🛍 10,000+ Products Across Categories
+- 💳 Loyalty Card Program
+- 📦 Bulk Order Quote Requests
+- 🔥 Weekly Deals
+- 💼 Careers Page
 - 📱 Fully Responsive Design
-- ⚡ Fast & Optimized Performance
-- 🎨 Modern Blue-Themed UI
-- 🌙 Dark Mode Support
 
-### Tech Stack
+---
 
-Next.js • React • Node.js • Express.js • MongoDB • Tailwind CSS
+## 📄 Resume-AI
+
+### Live:
+https://resume-ai.buttnetworks.com/
+
+An AI resume builder that generates professional, ATS-friendly resumes in seconds and lets users pick from multiple templates.
+
+### Features
+
+- 🤖 AI Resume Generation
+- 🎯 ATS Optimization & Score Checker
+- 🎨 Multiple Professional Templates
+- 📤 Upload Existing Resume
+- 📥 Instant PDF Export
+
+---
 
 ## 🔗 URL Shortener
 
@@ -100,39 +113,50 @@ Next.js • Node.js • Express • MongoDB
 
 ---
 
-## 🛒 Key&Chains E-Commerce
+## 📱 Reelo
 
-A complete e-commerce platform with modern shopping experience.
+### Download:
+https://7dish70hhldpcvsw.public.blob.vercel-storage.com/Reelo2.apk
+
+A React Native social blogging app where users can create posts, share media, follow people, and stay connected through real-time notifications.
 
 ### Features
 
-* 🛍 Product Catalog
-* 🔐 User Authentication
-* 🛒 Shopping Cart
-* 💳 Checkout Flow
-* 📱 Mobile Responsive
+- 📝 Create & Manage Posts
+- 🖼 Cloudinary Media Uploads
+- 🔍 Search with Infinite Scroll
+- 👤 User Profiles & Edit Profile
+- 🔔 Real-Time & Push Notifications
+- ⚙️ Per-User Notification Settings
 
 ### Tech Stack
 
-Next.js • Express.js • MongoDB
+React Native • Expo • NativeWind • Node.js • Express.js • MongoDB • Socket.IO
 
 ---
 
-## 📊 Admin Dashboard
+## 🤝 Client Portal
 
-A powerful management system for handling users, content, analytics, and platform settings.
+A client and developer dashboard system sharing a single backend, built to manage tasks and project collaboration between developers and clients.
 
 ### Features
 
-* 📈 Analytics Dashboard
-* 👥 User Management
-* 🔒 Role-Based Access
-* ⚡ Fast Performance
-* 📱 Responsive UI
+- 👨‍💻 Separate Developer & Client Dashboards
+- ✅ Client Task Updates
+- ⭐ User Rating System
+- 🔐 Secure Authentication
 
-### Tech Stack
+---
 
-Next.js • Node.js • MongoDB
+## 💪 FitPath
+
+A fitness platform built to help users stay consistent on their health and workout journey.
+
+---
+
+## 💻 LearnCode
+
+A learning platform built to help users learn programming.
 
 ---
 
